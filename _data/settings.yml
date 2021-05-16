@@ -150,6 +150,6 @@ font_settings:
 advanced_settings:
   ajax_loading: true
   analytics_code: "<script async defer data-domain='himpfen.io' src='https://plausible.io/js/plausible.js'></script>"
-  custom_styles: ""
+  custom_styles: "<link rel='stylesheet' href='https://db8urotkjxwkf.cloudfront.net/css/buttons.css'>"
   header_js: ""
   footer_js: ""
