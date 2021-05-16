@@ -1,0 +1,48 @@
+---
+layout: default
+title: Projects
+subtitle: What I've been working on lately.
+description: A collection of all projects created and maintained by Brandon Himpfen
+featured_image: https://db8urotkjxwkf.cloudfront.net/cover.jpg
+---
+
+<section class="intro">
+
+	<div class="wrap">
+
+		<h1>{{ page.title }}</h1>
+		<p>{{ page.description }}</p>
+		<p><a href="/tag/code/" title="Open Source Code">Code</a> &middot; <a href="/tag/themes/" title="Web Themes">Themes</a> &middot; <a href="/tag/datasets/">Datasets</a> &middot; <a href="/tag/tools/">Tools</a> &middot; <a href="https://templates.himpfen.com/">Document Templates</a> &middot; <a href="/tag/resources/">Resources</a></p>
+		
+	</div>
+
+</section>
+
+<section class="portfolio">
+
+	<div class="wrap">
+
+		{% for project in site.projects reversed %}
+
+		<div class="portfolio-item">
+
+			<a class="portfolio-item__link" href="{{ project.url | relative_url }}">
+
+				<div class="portfolio-item__image" style="background-image: url({{ project.featured_image | relative_url }});"></div>
+
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">{{ project.title }}</h2>
+						<p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
+					</div>
+				</div>
+
+			</a>
+
+		</div>
+
+		{% endfor %}
+
+	</div>
+
+</section>

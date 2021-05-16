@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<section class="intro">
+
+	<div class="wrap">
+
+		<h1>{{ page.title }}</h1>
+
+	</div>
+
+</section>
+<section class="single">
+	<div class="wrap">
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Name</th>
+      <th style="text-align: left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+{% for post in site.tags[page.tag] %}
+  <tr>
+      <td style="text-align: left"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></td>
+      <td style="text-align: left">{{ post.excerpt }}</td>
+    </tr>
+{% endfor %}
+  </tbody>
+</table>
+
+</div>
+</section>
+
