@@ -10,6 +10,8 @@ header_settings:
 
 menu_settings:
   menu_items:
+    - title: 'Home'
+      url: '/' 
     - title: 'Blog'
       url: 'https://brandonhimpfen.medium.com/'
     - title: 'Datasets'
