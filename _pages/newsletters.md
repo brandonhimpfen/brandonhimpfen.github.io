@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Newsletters
-excerpt: 
+excerpt: A collection of free, weekly newsletters covering generic and specific topics.
 ---
 
 A collection of free, weekly newsletters covering generic and specific topics, including Web Development, Digital Marketing, Mobile Development, Databases, JavaScript and so much more!
