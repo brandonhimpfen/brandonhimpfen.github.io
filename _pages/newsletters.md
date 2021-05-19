@@ -9,3 +9,7 @@ A collection of free, weekly newsletters covering generic and specific topics, i
 | Name | Brand | Frequency | Day | URL | Subscription |
 |:--- |:-------- |:-------- |:-------- |:-------- |:-------- |
 |  |  |  |  | []() | []() |
+
+<div class="alert alert-success" role="alert">
+  	If you like this project or any of my projects, please consider donating on <a href="https://github.com/sponsors/brandonhimpfen/" class="alert-link">GitHub Sponsor</a> or <a href="https://www.buymeacoffee.com/brandonhimpfen" class="alert-link">Buy Me a Coffee</a>.
+</div>
