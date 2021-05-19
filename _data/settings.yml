@@ -10,12 +10,14 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Home'
-      url: '/'
     - title: 'Blog'
       url: 'https://brandonhimpfen.medium.com/'
-    - title: 'Shop'
-      url: 'https://brandonhimpfen.gumroad.com/'
+    - title: 'Datasets'
+      url: '/datasets/'
+    - title: 'Newsletters'
+      url: '/newsletters/'
+    - title: 'Websites'
+      url: '/websites/'
     - title: 'Sponsor on GitHub'
       url: 'https://github.com/sponsors/brandonhimpfen/'
     - title: 'Buy Me a Coffee'
