@@ -7,4 +7,4 @@ featured_image: https://db8urotkjxwkf.cloudfront.net/posts/sass-mixin-library.pn
 
 Sass Mixin Library is a simple, lightweight, yet powerful mixin library for Sass.
 
-<a href="https://clicksrv.net/55" rel="nofollow" class="btn btn-primary">Download (.zip)</a>
+<a href="https://clicksrv.net/55" rel="nofollow" class="btn btn-success">Download (.zip)</a>
