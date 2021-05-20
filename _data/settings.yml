@@ -16,6 +16,8 @@ menu_settings:
       url: 'https://brandonhimpfen.medium.com/'
     - title: 'Datasets'
       url: '/datasets/'
+    - title: 'Learning Centre'
+      url: 'https://learn.himpfen.com/'
     - title: 'Newsletters'
       url: '/newsletters/'
     - title: 'Photography'
