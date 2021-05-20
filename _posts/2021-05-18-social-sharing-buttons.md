@@ -8,4 +8,4 @@ featured_image: https://db8urotkjxwkf.cloudfront.net/posts/social-sharing-button
 Social Sharing Buttons is a collection of responsive buttons that you can place on your website to have your visitors share your website or web page. Social Sharing Buttons is available
 for vanilla CSS, Bootstrap, Material Design Lite and Pure.css with Font Awesome social network icons.
 
-<!--<a href="https://ssbtns.himpfen.io/" target="_blank" class="btn btn-success">Visit Social Sharing Buttons</a>-->
+<a href="https://clicksrv.net/58" rel="nofollow" class="btn btn-success">Download (.zip)</a>
