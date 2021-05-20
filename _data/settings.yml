@@ -18,6 +18,8 @@ menu_settings:
       url: '/datasets/'
     - title: 'Newsletters'
       url: '/newsletters/'
+    - title: 'Photography'
+      url: '/photography/'
     - title: 'Websites'
       url: '/websites/'
     - title: 'Sponsor on GitHub'
