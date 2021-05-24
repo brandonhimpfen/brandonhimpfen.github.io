@@ -13,7 +13,7 @@ menu_settings:
     - title: 'Home'
       url: '/' 
     - title: 'Blog'
-      url: 'https://brandonhimpfen.medium.com/'
+      url: 'https://www.himpfen.blog/'
     - title: 'Datasets'
       url: '/datasets/'
     - title: 'Learning Centre'
