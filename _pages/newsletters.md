@@ -17,6 +17,7 @@ A collection of free, weekly newsletters covering generic and specific topics, i
 | Node Weekly | This Week In | Weekly | Thursday | [Visit](https://www.thisweekin.io/tag/node/) | [Subscribe](https://www.thisweekin.io/#/portal/signup) |
 | React Weekly | This Week In | Weekly | Monday | [Visit](https://www.thisweekin.io/tag/react/) | [Subscribe](https://www.thisweekin.io/#/portal/signup) |
 | Ruby Weekly | This Week In | Weekly | Wednesday | [Visit](https://www.thisweekin.io/tag/ruby/) | [Subscribe](https://www.thisweekin.io/#/portal/signup) |
+| The Desk | Brandon Himpfen | Weekly | Monday | [Visit](https://www.himpfen.blog/) | [Subscribe](https://www.himpfen.blog/#/portal/signup) |
 | Travel Bloggers Weekly | TBN | Weekly | Friday | [Visit](https://www.travelbloggers.net/tag/travel-bloggers-weekly/) | [Subscribe](https://www.travelbloggers.net/#/portal/signup) |
 | Web Dev Weekly | This Week In | Weekly | Monday | [Visit](https://www.thisweekin.xyz/tag/web-development/) | [Subscribe](https://www.thisweekin.xyz/#/portal/signup) |
 
