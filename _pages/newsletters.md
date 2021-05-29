@@ -10,7 +10,7 @@ A collection of free, weekly newsletters covering generic and specific topics, i
 |:--- |:-------- |:-------- |:-------- |:-------- |:-------- |
 | Blogging Weekly | This Week In | Weekly | Monday | [Visit](https://www.thisweekin.xyz/tag/blogging/) | [Subscribe](https://www.thisweekin.xyz/#/portal/signup) |
 | DB Weekly | This Week In | Weekly | Thursday | [Visit](https://www.thisweekin.xyz/tag/db/) | [Subscribe](https://www.thisweekin.xyz/#/portal/signup) |
-| Digital Marketing Weekly | This Week In | Weekly | Tuesday | [Subscribe](https://www.thisweekin.xyz/tag/digital-marketing/) | [Subscribe](https://www.thisweekin.xyz/#/portal/signup) |
+| Digital Marketing Weekly | This Week In | Weekly | Tuesday | [Visit](https://www.thisweekin.xyz/tag/digital-marketing/) | [Subscribe](https://www.thisweekin.xyz/#/portal/signup) |
 | Golang Weekly | This Week In | Weekly | Friday | [Visit](https://www.thisweekin.io/tag/golang/) | [Subscribe](https://www.thisweekin.io/#/portal/signup) |
 | JavaScript Weekly | This Week In | Weekly | Tuesday | [Visit](https://www.thisweekin.io/tag/javascript/) | [Subscribe](https://www.thisweekin.io/#/portal/signup) |
 | Mobile Dev Weekly | This Week In | Weekly | Wednesday | [Visit](https://www.thisweekin.xyz/tag/mobile-development/) | [Subscribe](https://www.thisweekin.xyz/#/portal/signup) |
