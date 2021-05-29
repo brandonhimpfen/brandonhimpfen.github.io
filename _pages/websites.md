@@ -2,9 +2,8 @@
 layout: page
 title: Websites and Blogs
 excerpt: A collection of websites and blogs that Brandon Himpfen has created and maintain.
+subtitle: A collection of websites and blogs that Brandon Himpfen has created and maintain.
 ---
-
-A collection of websites and blogs that Brandon Himpfen has created and maintain.
 
 | Name | Description | URL |
 |:--- |:-------- |:-------- |

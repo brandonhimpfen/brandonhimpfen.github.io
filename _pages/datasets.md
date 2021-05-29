@@ -2,9 +2,8 @@
 layout: page
 title: Datasets
 excerpt: A collection of free datasets you may use for your open source projects.
+subtitle: A collection of free datasets you may use for your open source projects.
 ---
-
-A collection of free datasets you may use for your open source projects.
 
 | Name | Description | Entries | Formats | URL |
 |:--- |:-------- |:-------- |:-------- |:-------- |

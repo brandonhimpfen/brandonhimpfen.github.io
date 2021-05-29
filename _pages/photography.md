@@ -2,6 +2,7 @@
 layout: page
 title: Photography
 excerpt: Travel, nature and stock photography.
+subtitle: Travel, nature and stock photography.
 ---
 
 B.H. Photo and Videos produces travel, nature, and stock photography and videos, which are available to view on YouTube or the images archive.
