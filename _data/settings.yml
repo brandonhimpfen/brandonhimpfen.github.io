@@ -22,6 +22,8 @@ menu_settings:
       url: '/newsletters/'
     - title: 'Photography'
       url: '/photography/'
+    - title: 'Travel'
+      url: '/travel/'
     - title: 'Websites'
       url: '/websites/'
     - title: 'Sponsor on GitHub'
