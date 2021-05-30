@@ -68,15 +68,15 @@
 	margin-top: 0;
 
 	@include mq(tabletp) {
-		margin-top: 5px;
+		margin-top: 0;
 	}
 
 	@include mq(tabletl) {
-		margin-top: 10px;
+		margin-top: 0;
 	}
 
 	@include mq(laptop) {
-		margin-top: 20px;
+		margin-top: 0;
 	}
 
 	p .button {
