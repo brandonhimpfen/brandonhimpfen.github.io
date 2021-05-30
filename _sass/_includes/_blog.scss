@@ -65,18 +65,18 @@
 }
 
 .blog-post__content {
-	margin-top: 20px;
+	margin-top: 15px;
 
 	@include mq(tabletp) {
-		margin-top: 20px;
+		margin-top: 15px;
 	}
 
 	@include mq(tabletl) {
-		margin-top: 20px;
+		margin-top: 15px;
 	}
 
 	@include mq(laptop) {
-		margin-top: 20px;
+		margin-top: 15px;
 	}
 
 	p .button {
