@@ -3,6 +3,7 @@ layout: post
 title: Brand Colours
 excerpt: Brand Colours is a collection of major brands' HEX and RGB colour codes that is available as a single CSS file or searchable on the Brand Colours website.
 featured_image: https://db8urotkjxwkf.cloudfront.net/posts/brand-colours.png
+tag: code
 ---
 
 Brand Colours is a collection of major brands' HEX and RGB colour codes that is available as a single CSS file or searchable on the Brand Colours website.
