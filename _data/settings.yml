@@ -14,18 +14,14 @@ menu_settings:
       url: '/' 
     - title: 'Blog'
       url: 'https://www.himpfen.blog/'
-    - title: 'Datasets'
-      url: '/datasets/'
     - title: 'Learning Centre'
       url: 'https://learn.himpfen.com/'
-    - title: 'Newsletters'
-      url: '/newsletters/'
     - title: 'Photography'
       url: '/photography/'
+    - title: 'Projects'
+      url: '/projects/'
     - title: 'Travel'
       url: '/travel/'
-    - title: 'Websites'
-      url: '/websites/'
 
 grid_settings:
   grid_spacing: 10
