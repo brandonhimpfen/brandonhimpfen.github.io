@@ -7,7 +7,7 @@ layout: default
 	<div class="wrap">
 
 		<h1>{{ page.title }}</h1>
-		<p>{{ post.excerpt }}</p>
+		<p>{{ page.excerpt }}</p>
 		<p>[{% for tag in page.tags %}{% capture tag_name %}{{ tag }}{% endcapture %}<a href="/tag/{{ tag_name }}/"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code></a>{% endfor %}]</p>
 
 	</div>
@@ -17,6 +17,8 @@ layout: default
 <section class="single">
 
 	<div class="wrap">
+
+		<p><img src="{{ page.featured_image | relative_url }}" alt="" data-cms-original-src="{{ page.featured_image | relative_url }}" /></p>
 
 		{{ page.content }}
 
