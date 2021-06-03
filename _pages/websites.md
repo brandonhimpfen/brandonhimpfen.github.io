@@ -5,6 +5,8 @@ excerpt: A collection of websites and blogs that Brandon Himpfen has created and
 subtitle: A collection of websites and blogs that Brandon Himpfen has created and maintain.
 ---
 
+[&larr; View All Projects](/projects/)
+
 | Name | Description | URL |
 |:--- |:-------- |:-------- |
 |  | | []() |

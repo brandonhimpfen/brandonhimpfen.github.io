@@ -5,6 +5,8 @@ excerpt: A collection of free datasets you may use for your open source projects
 subtitle: A collection of free datasets you may use for your open source projects.
 ---
 
+[&larr; View All Projects](/projects/)
+
 | Name | Description | Entries | Formats | URL |
 |:--- |:-------- |:-------- |:-------- |:-------- |
 | Airlines | List of airlines' names and ID numbers. | 556 | .txt, .csv, .dat, .xlsx | [View on GitHub](https://github.com/brandonhimpfen/airlines) |
