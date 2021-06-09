@@ -10,7 +10,7 @@ B.H. Photo and Videos produces travel, nature, and stock photography and videos,
 <a href="https://brandonhimpfen.smugmug.com/" target="_blank" class="btn btn-primary">Visit Images Archive</a>
 
 <div class="alert alert-info" role="alert">
-     License photography and videos on <a href="https://clicksrv.net/6J" class="alert-link">Adobe Stock</a>.
+     License photography and videos on <a href="https://clicksrv.net/6J" class="alert-link" target="_blank">Adobe Stock</a>.
  </div>
 
 <div class="gallery" data-columns="3">
