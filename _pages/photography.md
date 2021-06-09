@@ -7,7 +7,10 @@ subtitle: Travel, nature and stock photography.
 
 B.H. Photo and Videos produces travel, nature, and stock photography and videos, which are available to view on YouTube or the images archive.
 
-<a href="https://brandonhimpfen.smugmug.com/" target="_blank" class="btn btn-primary">Visit Images Archive</a>
+<div class="btn-group">
+    <a href="https://brandonhimpfen.smugmug.com/" target="_blank" class="btn btn-primary">Visit Images Archive</a>
+    <a href="https://www.youtube.com/c/brandonhimpfen?sub_confirmation=1" target="_blank" class="btn btn-primary">YouTube</a>
+</div>
 
 <div class="alert alert-info" role="alert">
      License photography and videos on <a href="https://clicksrv.net/6J" class="alert-link" target="_blank">Adobe Stock</a>.
