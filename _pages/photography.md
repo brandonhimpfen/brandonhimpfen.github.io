@@ -9,7 +9,7 @@ B.H. Photo and Videos produces travel, nature, and stock photography and videos,
 
 <div class="btn-group">
     <a href="https://brandonhimpfen.smugmug.com/" target="_blank" class="btn btn-primary">Visit Images Archive</a>
-    <a href="https://www.youtube.com/c/brandonhimpfen?sub_confirmation=1" target="_blank" class="btn btn-primary">YouTube</a>
+    <a href="https://www.youtube.com/c/brandonhimpfen?sub_confirmation=1" target="_blank" class="btn btn-danger">YouTube</a>
 </div>
 
 <div class="alert alert-info" role="alert">
