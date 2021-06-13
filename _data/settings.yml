@@ -10,16 +10,18 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Home'
-      url: '/' 
     - title: 'Blog'
       url: 'https://medium.com/brandon-himpfen'
+    - title: 'Design'
+      url: '/design/'
     - title: 'Learning Centre'
       url: 'https://learn.himpfen.com/'
     - title: 'Photography'
       url: '/photography/'
     - title: 'Projects'
       url: '/projects/'
+    - title: 'Technology'
+      url: '/technology/'
     - title: 'Travel'
       url: '/travel/'
 
