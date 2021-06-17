@@ -1,54 +1,5 @@
----
-layout: default
-title: Gaming. Graphic Design. Open Source. Travel. Photography.
-description: 
-featured_image: https://db8urotkjxwkf.cloudfront.net/headbg.jpg
----
-
-<section class="blog single">
-
-	<div class="wrap">
-
-		{% for post in paginator.posts %}
-
-		<article class="blog-post">
-
-			{% if post.featured_image %}
-			<a href="{{ post.url | relative_url }}" class="blog-post__image" style="background-image: url({{ post.featured_image | relative_url }});"></a>
-			{% endif %}
-
-			<div class="blog-post__header">
-				<h2 class="blog-post__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-			</div>
-
-			<div class="blog-post__content">
-				<p>{{ post.excerpt }}</p>
-				<p><a href="{{ post.url | relative_url }}" class="button">Read More</a>
-			</div>
-
-		</article>
-
-		{% endfor %}
-
-	</div>
-
-</section>
-
-{% if paginator.total_pages > 1 %}
-
-<section class="pagination">
-
-	{% if paginator.previous_page %}
-	<div class="pagination__prev">
-		<a href="{{ paginator.previous_page_path | relative_url }}" class="button button--large"><i class="fa fa-angle-left" aria-hidden="true"></i> <span>Newer Posts</span></a>
-	</div>
-	{% endif %}
-	{% if paginator.next_page %}
-	<div class="pagination__next">
-		<a href="{{ paginator.next_page_path | relative_url }}" class="button button--large"><span>Older Posts</span> <i class="fa fa-angle-right" aria-hidden="true"></i></a>
-	</div>
-	{% endif %}
-
-</section>
-
-{% endif %}
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to https://www.himpfen.com/</title>
+<meta http-equiv="refresh" content="0; URL=https://www.himpfen.com/">
+<link rel="canonical" href="https://www.himpfen.com/">
